@@ -1,0 +1,40 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"> 
+	<dict> 
+		<key>items</key> 
+		<array> 
+			<dict> 
+				<key>assets</key> 
+				<array> 
+					<dict> 
+						<key>kind</key> 
+						<string>software-package</string> 
+						<key>url</key> 
+						<string>http://qrcode-58apk.cdn.bcebos.com/29333-ios-ce16e4f8284b1e241099f4d03db9e5b1.ipa?auth_key=1546103933-0-0-311f1b694d02b4baa5d722762f035ba1</string> 
+					</dict> 
+					<dict> 
+						<key>kind</key> 
+						<string>display-image</string> 
+						<key>needs-shine</key> 
+						<true /> 
+						<key>url</key> 
+						<string>http://cdn.58apk.com/qrcode-logo/c24617f48624754627fc8e65f3ecbfa6.png</string> 
+					</dict> 
+				</array> 
+				<key>metadata</key> 
+				<dict> 
+					<key>bundle-identifier</key> 
+					<string>testnixianglearn01</string> 
+					<key>bundle-version</key> 
+					<string>1.8.7</string> 
+					<key>kind</key> 
+					<string>software</string> 
+					<key>subtitle</key> 
+					<string>App Subtitle</string> 
+					<key>title</key> 
+					<string>吹牛盖世秒</string> 
+				</dict> 
+			</dict> 
+		</array> 
+	</dict> 
+</plist>
